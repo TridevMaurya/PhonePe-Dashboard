@@ -1,8 +1,8 @@
-# PhonePe-Analysis-Dashboard
+PhonePe-Analysis-Dashboard
 
-📊 PhonePe Analysis Dashboard is an interactive data visualization project created using Power BI. The dashboard provides insights into transaction trends, user statistics, and regional activity using CSV datasets.
+PhonePe Analysis Dashboard is an interactive data visualization project created using Power BI. The dashboard provides insights into transaction trends, user statistics, and regional activity using CSV datasets.
 
-🎯 Project Overview
+Project Overview
 
 This project analyzes PhonePe transaction data to understand patterns in:
 
@@ -20,7 +20,7 @@ Regional and device-wise statistics
 
 The aim is to transform raw CSV data into an easy-to-understand visual format that can help in decision-making and trend analysis.
 
-🔑 Key Features
+Key Features
 
 Total Transactions Overview: View and filter total transaction amount and count for selected years and quarters.
 
@@ -34,7 +34,7 @@ Regional Insights: Identify top-performing regions.
 
 Device Usage Analysis: Explore user distribution by mobile brand.
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 Power BI – for creating dashboards and data visualization.
 
@@ -42,7 +42,7 @@ CSV Data Files – as the data source for the analysis.
 
 Data Transformation – Power Query for cleaning and shaping data.
 
-📸 Dashboard Screenshots
+Dashboard Screenshots
 
 Transaction Overview & State Analysis
 
@@ -53,7 +53,7 @@ User Statistics & Transaction Type Analysis
 
 <img width="1326" height="739" alt="Screenshot 2025-08-02 170436" src="https://github.com/user-attachments/assets/48c3de4c-9bcd-4597-9933-a638974e01f2" />
 
-🚀 Future Enhancements
+Future Enhancements
 
 Real-Time Data Integration: Connect to APIs or live data sources for up-to-date insights.
 
